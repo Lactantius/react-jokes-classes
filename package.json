@@ -2,7 +2,7 @@
   "name": "icanhazdadjokes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lactantius.github.io/react-vending-machine",
+  "homepage": "https://lactantius.github.io/react-jokes-classes",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
     "@testing-library/jest-dom": "^4.2.4",

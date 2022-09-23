@@ -1,5 +1,3 @@
-### Initialization
+# Bad Jokes using Classes
 
-```
-npm install && npm start
-```
+An exercise rewriting a React app to use class-based components, to gain more familiarity with the bad old ways.

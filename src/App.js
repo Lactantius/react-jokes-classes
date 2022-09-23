@@ -5,7 +5,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <JokeList />
+        <JokeList numJokesToGet={10} />
       </div>
     );
   }
